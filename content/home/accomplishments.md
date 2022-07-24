@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://drive.google.com/file/d/15kimpTqDiZVc-QQqSL1jXpNrnlk9mK_t/view
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    date_start: '2022-06-15'
+    description: 'AWS Technical Essentials introduces you to essential AWS services and common solutions. The course covers the fundamental AWS concepts related to compute, database, storage, networking, monitoring, and security.'
+    organization: AWS
+    organization_url: https://aws.amazon.com/
+    title: 'AWS Technical Essentials'
+    url: 'https://www.amazon.com/Technical-Essentials-Online-Training-Certification/dp/B09HYM9576/ref=lp_23557387011_1_4'
+  - certificate_url: https://www.udemy.com/certificate/UC-61e2db93-ef4c-409b-af11-7bc46230a0d9/
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
+    date_start: '2021-06-01'
+    description: Learn the magic of Java Spring Framework with Spring Boot, Spring JDBC, Spring AOP, Hibernate, JUnit & Mockito
+    organization: Udemy
+    organization_url: https://www.udemy.com/
+    title: 'Spring Framework Master Class - Java Spring the Modern Way'
+    url: https://www.udemy.com/course/spring-tutorial-for-beginners/
+  - certificate_url: https://www.udemy.com/certificate/UC-30af16d0-5609-4d59-9e0e-7f87ddf78ed0/
+    date_end: ''
+    date_start: '2020-09-14'
+    description: 'SQL for Business Analysis, Marketing, and Data Management'
+    organization: Udemy
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    title: 'SQL - MySQL for Data Analytics and Business Intelligence '
+    url: 'https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/'
 
 design:
   columns: '2'
