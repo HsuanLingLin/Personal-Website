@@ -9,7 +9,7 @@ date: '2022-05-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: ''
+  caption: 'MyDB'
   focal_point: Smart
 
 url_code: ''
@@ -24,5 +24,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-• Built a relational database from scratch with implementing LRU buffer manager, and B+-tree for page management.
-• Implemented a SQL compiler and a RA optimizer to support SQL semantic check and generate optimal executable plans.
++ Built a relational database from scratch with implementing LRU buffer manager, and B+-tree for page management.
++ Developed a SQL compiler and a RA optimizer to support SQL semantic check and generate optimal executable plans.
++ Implemented a two-phase multi-way merge sort for sorting a file in the database system.
