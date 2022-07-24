@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: mr robot
-  theme_night: mr robot
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: L
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Hsuan-Ling Lin. This work is licensed under {license}'
+    notice: '© {year} Hsuan-Ling Lin.'
     license:
       enable: false
       allow_derivatives: false
