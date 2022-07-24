@@ -12,11 +12,6 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,3 +24,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+• Developed a social networking web application that users can register a new account or log in with third party
+authentications, display user feed, customize the profile, post and comment articles, and follow other users.
+• Created the frontend user interface with React and Redux, realized client-server communication by RESTful APIs,
+implemented backend web services with Node.js and MongoDB, and using Jest and Enzyme for unit test.
