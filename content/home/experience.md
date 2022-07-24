@@ -41,7 +41,7 @@ experience:
     company_logo: jkopay
     location: Taipei
     date_start: '2020-07-01'
-    date_end: '2021-06-31'
+    date_end: '2021-06-30'
     description: |2-
         * Built e-ticketing server-side service from scratch using Java Spring Boot, MyBatis, MySQL, Docker, and ELK stack; responsible for managing project from initial documentation, database schema design, and implementation.
         * Raised 17% coupon allowance rate and gained $3000+ revenue each month in coupon service by implementing instant-payback coupon by Python Django framework, Redis Queue, Kafka, MySQL.
