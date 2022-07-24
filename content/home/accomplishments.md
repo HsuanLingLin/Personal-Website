@@ -49,5 +49,5 @@ item:
     url: 'https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/'
 
 design:
-  columns: '2'
+  columns: '3'
 ---
