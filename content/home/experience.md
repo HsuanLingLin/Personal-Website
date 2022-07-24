@@ -26,7 +26,7 @@ experience:
     company: Amazon.com, Inc.
     company_url: 'https://www.amazon.com/'
     company_logo: amazon
-    location: Seattle
+    location: Seattle, WA, United States
     date_start: '2022-05-23'
     date_end: '2022-08-12'
     description: |2-    
@@ -39,7 +39,7 @@ experience:
     company: JKOPay Co. Ltd.
     company_url: 'https://www.jkopay.com/'
     company_logo: jkopay
-    location: Taipei
+    location: Taipei, Taiwan
     date_start: '2020-07-01'
     date_end: '2021-06-30'
     description: |2-
@@ -51,7 +51,7 @@ experience:
     company: MediaTek Inc.
     company_url: 'https://www.mediatek.com/'
     company_logo: mediatek
-    location: Taipei
+    location: Taipei, Taiwan
     date_start: '2016-12-01'
     date_end: '2018-12-31'
     description: |2-
