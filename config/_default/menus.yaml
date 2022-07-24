@@ -16,7 +16,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 40
-  - name: CV
+  - name: Resume
     url: "uploads/Resume_HsuanLingLin.pdf"
     weight: 50
 

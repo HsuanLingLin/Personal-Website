@@ -1,12 +1,12 @@
 ---
 title: GotchaDev · Full Stack Web Development · ReactJS
-summary: A social networking web application.
+summary: A social networking web application. https://gotchadev.surge.sh/
 tags:
   - Web Development and Design
 date: '2022-05-10T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://gotchadev.surge.sh/'
+external_link: ''
 
 image:
   caption: 'GotchaDev'
