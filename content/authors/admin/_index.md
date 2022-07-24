@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hsuan-Ling Lin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Amazon SDE Intern | Backend Developer | Master of Computer Science at Rice University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Rice University
+    url: https://www.rice.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My focus areas are web developement and design including back-end system development with Python Django and Spring Boot, front-end development with JavaScript, and microservices design. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Backend Development
+  - Full Stack Development
+  - Database System
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Computer Science - GPA 4.0/4.0
+      institution: Rice University
+      year: 2022
+    - course: Master of Science in Communications Engineering - GPA 3.96/4.3
+      institution: National Tsing Hua University
+      year: 2016
+    - course: Bachelor of Science in Communications Engineering
+      institution: National Central University
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +43,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/HsuanLingLin
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/hsuan-ling-lin
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -69,9 +66,15 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am Hsuan-Ling Lin, I am currently an SDE intern at Amazon. I am responsible for designing and implementing a Risk Aggregator API using Java for preventing fraud in fraud mitigation toolkit.
+Also, I created a plugin by AWS Lambda and API Gateway for invoking an internal back-end service and aggregated the
+results for upstream client.
+I am pursuing a Master’s degree in Computer Science at Rice University. 
+I am proficient in Python and Java and have experience in designing web applications using Java Spring and Django. 
+I was a backend developer at JKOPay, which is the most widely used mobile payment system in Taiwan. 
+I was in charge of developing RESTful APIs and backend services. 
+In particular, I managed a project in building an e-ticking system using Spring Boot and MySQL. 
+My current GPA is 4.0. My relevant coursework includes Database System Implementation and Web development and Design since I want to solidify my knowledge in databases, and I am curious about how frontend works. 
+My career interest is to design services to help people’s lives easier and satisfy their needs. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_HsuanLingLin.pdf" "newtab" >}}resumé{{< /staticref >}}.
