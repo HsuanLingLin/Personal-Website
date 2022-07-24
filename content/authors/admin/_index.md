@@ -20,7 +20,7 @@ bio: My focus areas are web developement and design including back-end system de
 interests:
   - Backend Development
   - Full Stack Development
-  - Database System
+  - Microservices Design
 
 # Education to show in About widget
 education:
@@ -63,14 +63,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am Hsuan-Ling Lin, I am currently an SDE intern at Amazon. I am responsible for designing and implementing a Risk Aggregator API using Java for preventing fraud in fraud mitigation toolkit.
-Also, I created a plugin by AWS Lambda and API Gateway for invoking an internal back-end service and aggregated the
-results for upstream client.
+I am Hsuan-Ling Lin, I am currently an SDE intern at Amazon. I am responsible for designing and implementing a Risk Aggregator API using Java for preventing fraud by leveraging AWS eco-system.
 I am pursuing a Master’s degree in Computer Science at Rice University. 
 I am proficient in Python and Java and have experience in designing web applications using Java Spring and Django. 
-I was a backend developer at JKOPay, which is the most widely used mobile payment system in Taiwan. 
-I was in charge of developing RESTful APIs and backend services. 
-In particular, I managed a project in building an e-ticking system using Spring Boot and MySQL. 
 My current GPA is 4.0. My relevant coursework includes Database System Implementation and Web development and Design since I want to solidify my knowledge in databases, and I am curious about how frontend works. 
 My career interest is to design services to help people’s lives easier and satisfy their needs. 
 
