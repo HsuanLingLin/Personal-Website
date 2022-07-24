@@ -65,7 +65,8 @@ highlight_name: true
 ---
 I am Hsuan-Ling Lin, I am currently an SDE intern at Amazon that responsible for designing and implementing a Risk Aggregator API using Java for preventing fraud by leveraging AWS eco-system.
 My technical capabilities are Python and Java and I have experience in designing web applications using Java Spring and Django. 
-Currently, I am pursuing a Master’s degree in Computer Science at Rice University and my GPA is 4.0
+
+I am pursuing a Master’s degree in Computer Science at Rice University and my GPA is 4.0.
 My relevant coursework includes Database System Implementation and Web development and Design since I want to solidify my knowledge in databases, and I am curious about how frontend works. 
 My career interest is to design services to help people’s lives easier and satisfy their needs. 
 
