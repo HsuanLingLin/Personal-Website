@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Experience
 subtitle:
@@ -33,7 +33,7 @@ experience:
         * Designed and implemented a Risk Aggregator API using Java for preventing fraud in fraud mitigation toolkit.
         * Created a plugin by AWS Lambda and API Gateway for invoking an internal back-end service and aggregated the results for upstream client.
         * Constructed the service infrastructure and pipeline by leveraging AWS CDK infrastructure eco-system.
-        * Monitoring the availability and performance of the API by creating time and error metrics and alarms.
+        * Monitoring the availability and performance of the API by creating metrics, alarms, and dashboard.
 
   - title: Backend Developer
     company: JKOPay Co. Ltd.

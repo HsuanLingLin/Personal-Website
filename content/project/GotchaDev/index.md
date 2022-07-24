@@ -1,5 +1,5 @@
 ---
-title: GotchaDev · Full Stack Web Development · ReactJS
+title: GotchaDev - Full Stack Web Development · ReactJS
 summary: A social networking web application. https://gotchadev.surge.sh/
 tags:
   - Web Development and Design
@@ -24,12 +24,14 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-+ Developed a social networking web application and provides following functionality:
-1. users can register a new account or log in with third party authentications
-{{< figure src="third-party.png" title="third-party login" >}} 
-2. display user feed, post and comment articles, and follow other users.
-{{< figure src="post.png" title="GotchaDev user feed" >}} 
-3. customize the profile
-{{< figure src="profile-update.png" title="customized profile" >}} 
-+ Created the frontend user interface with React and Redux, realized client-server communication by RESTful APIs,
-implemented backend web services with Node.js and MongoDB, and using Jest and Enzyme for unit test.
+GotchaDev is a facebook-like social networking web application.
+GotchaDev exploited React and Redux to construct front-end, realized client-server communication by RESTful APIs, 
+implemented back-end by Node.js and MongoDB. The E2E test and unit test used Jest and Enzyme to achieved 80% test coverage.
+
+GotchaDev provides following functionality:
+1. users can register a new account or log in with third party authentications. The password is hashed and salted.
+{{< figure src="third-party.png" title="screenshot of third-party login" >}} 
+2. Display user feed. Users can post and comment articles, and follow other users.
+{{< figure src="post.png" title="screenshot of GotchaDev user feed" >}} 
+3. Users can customize the profile
+{{< figure src="profile-update.png" title="screenshot of customizing profile" >}} 

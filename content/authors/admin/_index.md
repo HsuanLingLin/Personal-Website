@@ -70,4 +70,5 @@ I am pursuing a Master’s degree in Computer Science at Rice University and my 
 My relevant coursework includes Database System Implementation and Web development and Design since I want to solidify my knowledge in databases, and I am curious about how frontend works. 
 My career interest is to design services to help people’s lives easier and satisfy their needs. 
 
+Always try to work as closely as possible at the boundary of your abilities. - Edsger W. Dijkstra
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_HsuanLingLin.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
