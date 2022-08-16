@@ -45,7 +45,7 @@ item:
     description: 'SQL for Business Analysis, Marketing, and Data Management'
     organization: Udemy
     organization_url: https://www.datacamp.com
-    title: 'SQL - MySQL for Data Analytics and Business Intelligence '
+    title: 'SQL - MySQL for Data Analytics and Business Intelligence'
     url: 'https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/'
 
 design:

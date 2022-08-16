@@ -30,10 +30,10 @@ experience:
     date_start: '2022-05-23'
     date_end: '2022-08-12'
     description: |2-    
-        * Designed and implemented a Risk Aggregator API using Java for preventing fraud in fraud mitigation toolkit.
-        * Created a plugin by AWS Lambda and API Gateway for invoking an internal back-end service and aggregated the results for upstream client.
+        * Designed and implemented an API as orchestrator using Java to aggregate data to client for fraud prevention.
+        * Created a service by AWS Lambda + API Gateway and invoked an internal backend service in parallel to achieve lower latency.
         * Constructed the service infrastructure and pipeline by leveraging AWS CDK infrastructure eco-system.
-        * Monitoring the availability and performance of the API by creating metrics, alarms, and dashboard.
+        * Monitored the performance of the API by emitting metrics and created dashboard in CloudWatch.
 
   - title: Backend Developer
     company: JKOPay Co. Ltd.
