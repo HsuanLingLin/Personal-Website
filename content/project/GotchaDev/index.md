@@ -33,5 +33,5 @@ GotchaDev provides following functionality:
 {{< figure src="third-party.png" title="screenshot of third-party login" >}} 
 2. Display user feed. Users can post and comment articles, and follow other users.
 {{< figure src="post.png" title="screenshot of GotchaDev user feed" >}} 
-3. Users can customize the profile
+3. Users can customize the profile.
 {{< figure src="profile-update.png" title="screenshot of customizing profile" >}} 
