@@ -25,13 +25,11 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: Hsuan-Ling.Lin@rice.edu
-  phone: 832 762 5581
+  email: hsuanlinglin@gmail.com
   address:
-    street: 6919 MAIN ST
-    city: Houston
+    city: Plano
     region: TX
-    postcode: '77030'
+    postcode: '75024'
     country: United States
     country_code: US
 
