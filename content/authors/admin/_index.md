@@ -6,7 +6,7 @@ title: Hsuan-Ling Lin
 superuser: true
 
 # Role/position/tagline
-role: Amazon SDE Intern | Backend Developer | Master of Computer Science at Rice University
+role: Software Developer @ SAP | Former Amazon SDE Intern | Backend Developer | Master of Computer Science at Rice University
 
 # Organizations/Affiliations to show in About widget
 organizations:
